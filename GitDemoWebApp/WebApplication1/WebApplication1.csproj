@@ -82,6 +82,7 @@
     <Content Include="RandomNo.js" />
     <Content Include="Registration.aspx" />
     <Content Include="sample.html" />
+    <Content Include="Sampletotestbranches.js" />
     <Content Include="Scope.html" />
     <Content Include="setHours.j" />
     <None Include="Web.Debug.config">
